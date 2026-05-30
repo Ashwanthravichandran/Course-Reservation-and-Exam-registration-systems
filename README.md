@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224040033
+# Name: ASHWANTH R
+# Date: 30.05.2026
 
 
 # AIM:
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="906" height="731" alt="image" src="https://github.com/user-attachments/assets/26e54490-6cb1-4f37-94f2-d41b06175d53" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1208" height="908" alt="image" src="https://github.com/user-attachments/assets/5bf921e6-7dee-4bd2-8d7d-61f959dfdf00" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="927" height="673" alt="image" src="https://github.com/user-attachments/assets/54ddcd7e-0711-487a-8a22-5cfa28babfa1" />
 
 
 
@@ -80,6 +83,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="905" height="542" alt="image" src="https://github.com/user-attachments/assets/06ae40d6-eccc-4d42-8a94-a01898d6fcb6" />
 
 
 
@@ -97,6 +101,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="903" height="978" alt="image" src="https://github.com/user-attachments/assets/8f2a8e07-0117-4773-86b3-141e57f4fa31" />
 
 
 
@@ -119,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="949" height="840" alt="image" src="https://github.com/user-attachments/assets/8c1ea8ef-9524-47c8-83de-6e04891d70c7" />
 
 
 
